@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerApi", "ControllerApi\ControllerApi.csproj", "{A48F3B2C-7239-4875-9ACD-7E5C5C6F44E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi", "MinimalApi\MinimalApi.csproj", "{08E82121-63C7-4D7E-B0A0-E55DC78E66B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48F3B2C-7239-4875-9ACD-7E5C5C6F44E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48F3B2C-7239-4875-9ACD-7E5C5C6F44E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48F3B2C-7239-4875-9ACD-7E5C5C6F44E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48F3B2C-7239-4875-9ACD-7E5C5C6F44E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E82121-63C7-4D7E-B0A0-E55DC78E66B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E82121-63C7-4D7E-B0A0-E55DC78E66B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E82121-63C7-4D7E-B0A0-E55DC78E66B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E82121-63C7-4D7E-B0A0-E55DC78E66B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
