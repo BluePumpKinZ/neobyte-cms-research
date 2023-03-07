@@ -7,7 +7,8 @@ In deze repo vindt u verschillende projecten die elks een bijdrage hebben aan he
 ### Uitvoeren
 #### MinimalAPIvsControllerAPI
 ```sh
-
+cd .\ApiReasearch
+dotnet run ---project Research
 ```
 
 ## Team
