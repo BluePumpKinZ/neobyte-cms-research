@@ -4,7 +4,6 @@ using MinimalApi;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddSingleton<Backend.Repository>();
 builder.Services.AddSingleton<ControllerApi.Api>();
 builder.Services.AddSingleton<MinimalApi.ApiEndpointLoader>();
 builder.Services.AddSingleton<IApiEndpoints,MinimalApi.Api>();

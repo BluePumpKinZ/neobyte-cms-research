@@ -6,8 +6,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi", "MinimalApi\Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Research", "Research\Research.csproj", "{209F8C7C-7A2C-44BD-B420-17C694B1004F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{A3167817-73FC-4A78-817D-F4150B4AE6E4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +24,5 @@ Global
 		{209F8C7C-7A2C-44BD-B420-17C694B1004F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{209F8C7C-7A2C-44BD-B420-17C694B1004F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{209F8C7C-7A2C-44BD-B420-17C694B1004F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A3167817-73FC-4A78-817D-F4150B4AE6E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3167817-73FC-4A78-817D-F4150B4AE6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3167817-73FC-4A78-817D-F4150B4AE6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3167817-73FC-4A78-817D-F4150B4AE6E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
