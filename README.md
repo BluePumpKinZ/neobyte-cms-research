@@ -6,9 +6,9 @@ We ontwikkelen ons eigen CMS platform voor Neobyte. Het platform zal ondersteuni
 In deze repo vindt u verschillende projecten die elks een bijdrage hebben aan het totale project. Bekende technologieën worden vergeleken met nieuwe technologieën, of nieuwe technologieën worden ontdekt en verder uitgezocht.
 ### Uitvoeren
 #### MinimalAPIvsControllerAPI
-```sh
+```
 cd .\ApiReasearch
-dotnet run ---project Research
+dotnet run --project Research
 ```
 
 ## Team
