@@ -1,9 +1,13 @@
-﻿
+﻿using Microsoft.AspNetCore.Mvc;
+
 namespace ControllerApi;
 
-public class Api{
+[ApiController]
+[Route("/api/controller")]
+public class Api : ControllerBase{
     
-    
-    public Api(){
+    [HttpGet("test")]
+    public IActionResult Test(){
+        return Ok();
     }
 }
